@@ -13,7 +13,7 @@ function CarouselComp() {
                     <img src="/images/banner/banner1.jpg" />
                 </div>
                 <div className="">
-                    <img src="/images/banner/banner4.jpg" />
+                    <img src="/images/banner/banner2.jpg" />
                 </div>
                 {/* <div className="">
                     <img src="/images/banner/banner2.jpg" />
